@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# News Today
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a News App to search for articles and news headlines
 
 ## Available Scripts
 
