@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Create env file
+
+REACT_APP_API_KEY = your-api-key
+
+### Install all the dependencies
+
+npm install
+
 ### `npm start`
 
 Runs the app in the development mode.\
