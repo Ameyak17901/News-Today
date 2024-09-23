@@ -12,7 +12,7 @@ REACT_APP_API_KEY = your-api-key
 
 ### Install all the dependencies
 
-npm install
+`npm install`
 
 ### `npm start`
 
